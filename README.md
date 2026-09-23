@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3925-concatenate-array-with-reverse](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
