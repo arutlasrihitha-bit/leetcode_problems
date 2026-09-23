@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3280-convert-date-to-binary](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3280-convert-date-to-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
