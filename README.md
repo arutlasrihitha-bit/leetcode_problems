@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
@@ -22,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -39,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
