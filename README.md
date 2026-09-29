@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2413-smallest-even-multiple](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2413-smallest-even-multiple) |
