@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
