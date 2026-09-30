@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2413-smallest-even-multiple](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2413-smallest-even-multiple) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
