@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arutlasrihitha-bit/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
